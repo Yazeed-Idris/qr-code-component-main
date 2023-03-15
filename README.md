@@ -43,7 +43,7 @@ I would like to improve the fonts of the site by making the font size more respo
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/howto/howto_css_image_responsive.asp) - This site is the goto when it comes to making responsive designs.
+- (https://www.w3schools.com/howto/howto_css_image_responsive.asp) - This site is the goto when it comes to making responsive designs.
 
 ## Author
 
